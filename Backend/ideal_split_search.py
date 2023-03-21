@@ -3,6 +3,8 @@
 # def idealSplitSearch():
 #     return
 
+import json 
+
 '''
 Will try to search for rooms with connected bathrooms in preferred dorms of the group preference
 '''
