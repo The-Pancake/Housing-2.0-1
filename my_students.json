@@ -1,0 +1,82 @@
+{
+    "JohnSmith": {
+        "sex": "m",
+        "major": "mech-e",
+        "dormInfo": "Warren1-1",
+        "year": "freshman",
+        "name": "John Smith",
+        "rcsID": "smithj@rpi.edu",
+        "location": "ny"
+    },
+
+    "SmithJohnson": {
+        "sex": "m",
+        "major": "cs",
+        "dorm": "Warren1-2",
+        "year": "freshman",
+        "name": "Smith Johnson",
+        "email": "johnsons@rpi.edu",
+        "rcsID": "000000001"
+    },
+
+    "DoeFreeman": {
+        "sex": "f",
+        "major": "biology",
+        "dorm": 0,
+        "year": "freshman",
+        "name": "Doe Freeman",
+        "email": "doef@rpi.edu",
+        "rcsID": "000000002"
+    },
+
+    "JaneDoe": {
+        "sex": "f",
+        "major": "biology",
+        "dorm": "Warren-",
+        "year": "freshman",
+        "name": "Jane Doe",
+        "email": "doej@rpi.edu",
+        "rcsID": "000000003"
+    },
+
+    "MichaelJackson": {
+        "sex": "m",
+        "major": "mech-e",
+        "dorm": 0,
+        "year": "freshman",
+        "name": "Michael Jackson",
+        "email": "smithj@rpi.edu",
+        "rcsID": "000000004",
+        "location": "ny"
+    },
+
+    "JaMorant": {
+        "sex": "m",
+        "major": "cs",
+        "dorm": 0,
+        "year": "freshman",
+        "name": "Ja Morant",
+        "email": "morantj@rpi.edu",
+        "rcsID": "000000005"
+    },
+
+    "MillieCirus": {
+        "sex": "f",
+        "major": "biology",
+        "dorm": 0,
+        "year": "freshman",
+        "name": "Millie Cirus",
+        "email": "doef@rpi.edu",
+        "rcsID": "000000006"
+    },
+
+    "VirginiaPufton": {
+        "sex": "f",
+        "major": "biology",
+        "dorm": 0,
+        "year": "freshman",
+        "name": "Virginia Pufton",
+        "email": "puftonv@rpi.edu",
+        "rcsID": "000000007"
+    }
+}
