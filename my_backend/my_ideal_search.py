@@ -33,12 +33,6 @@ def single_ideal_search (student):
     
     return bestRoom 
 
-# Group Person Ideal Search
-# Finds a room with a size that matches the group size and takes preferences into account
-def group_ideal_search(group):
-
-    return
-
 
 # Simple Helper Function [Might delete ]
 def returnFiles(name):
@@ -49,7 +43,9 @@ def returnFiles(name):
 '''
     Functions below will "RATE" students by compatibility
     - Compatibility is determined by how many things students have in common
-    - Will compare age, sex, place of origin, and interests [soon ]
+    - Will compare age, sex, place of origin, and interests [soon]
+   
+    Returns a list in the following format: [occupant, rating, room]
 '''
 
 # Making sure students are a good match
@@ -71,14 +67,24 @@ def compatibility(student, occupants, room):
         # Compare origin
         if(student["location"] == occupantInfo["location"]):
             rating += 1
-        # Compare sex 
 
+        # Compare sex 
         if(student["sex"] == occupantInfo["sex"]):
             rating += 1
-        # Compare interests ?? [ IN PROGRESS ]
-        # rating += interestsComparator(occupantInfo["interests"])
+
+        # Compare interests 
+        rating += interestsComparator(student["interests"], occupantInfo["interests"])
 
     return [occupant, rating, room]
+
+# Helper function for compatibility that takes two lists and compares them 
+# This will return the amount of similarities between the two lists
+def interestsComparator(studentList, OccupantList):
+    similarities = 0 
+    for interest in studentList:
+        if(interest in OccupantList):
+            similarities += 1
+    return similarities 
 
 # Returning best room based on compability 
 def setBestRoom(roomInfo1, roomInfo2):
@@ -92,6 +98,7 @@ def setBestRoom(roomInfo1, roomInfo2):
             return roomInfo2
         else:
             return roomInfo1 
+
 
 
 if __name__ == "__main__":
