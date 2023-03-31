@@ -72,6 +72,10 @@ def compatibility(student, occupants, room):
         if(student["sex"] == occupantInfo["sex"]):
             rating += 1
 
+        # Compare major
+        if(student["major"] == occupantInfo["major"]):
+            rating += 1
+
         # Compare interests 
         rating += interestsComparator(student["interests"], occupantInfo["interests"])
 
@@ -81,9 +85,13 @@ def compatibility(student, occupants, room):
 # This will return the amount of similarities between the two lists
 def interestsComparator(studentList, OccupantList):
     similarities = 0 
+    
     for interest in studentList:
         if(interest in OccupantList):
             similarities += 1
+
+
+    print("Similar:", similarities)
     return similarities 
 
 # Returning best room based on compability 
@@ -106,5 +114,6 @@ if __name__ == "__main__":
     student = json.load(file)
     
     file.close()
+
 
     print(single_ideal_search(student))
