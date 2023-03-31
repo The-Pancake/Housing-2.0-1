@@ -2,7 +2,7 @@
     "JohnSmith": {
         "sex": "m",
         "major": "mech-e",
-        "dormInfo": "Warren1-1",
+        "dorm": "Warren1-1",
         "year": "freshman",
         "name": "John Smith",
         "rcsID": "smithj@rpi.edu",

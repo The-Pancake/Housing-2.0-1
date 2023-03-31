@@ -1,10 +1,9 @@
 {
-    
     "sex": "m",
     "major": "mech-e",
     "dormPref": ["Warren"],
     "year": "freshman",
-    "name": "Lebron James",
+    "name": "LebronJames",
     "rcsID": "jamesl@rpi.edu",
     "location": "ny",
     "interests": ["filming", "writing", "playing an instrument", "reading"]
