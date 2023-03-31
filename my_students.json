@@ -6,7 +6,8 @@
         "year": "freshman",
         "name": "John Smith",
         "rcsID": "smithj@rpi.edu",
-        "location": "ny"
+        "location": "ny",
+        "interests": ["filming", "dancing", "playing an instrument", "reading"]
     },
 
     "SmithJohnson": {
@@ -16,7 +17,10 @@
         "year": "freshman",
         "name": "Smith Johnson",
         "email": "johnsons@rpi.edu",
-        "rcsID": "000000001"
+        "rcsID": "000000001",
+        "location": "INT",
+        "interests": ["reading", "writing", "playing an instrument", "photography"]
+
     },
 
     "DoeFreeman": {
@@ -26,7 +30,9 @@
         "year": "freshman",
         "name": "Doe Freeman",
         "email": "doef@rpi.edu",
-        "rcsID": "000000002"
+        "rcsID": "000000002",
+        "location": "ny",
+        "interests": ["dancing"]
     },
 
     "JaneDoe": {
@@ -36,7 +42,9 @@
         "year": "freshman",
         "name": "Jane Doe",
         "email": "doej@rpi.edu",
-        "rcsID": "000000003"
+        "rcsID": "000000003",
+        "location": "ny",
+        "interests": ["traveling", "filming", "gardening"]
     },
 
     "MichaelJackson": {
@@ -47,7 +55,8 @@
         "name": "Michael Jackson",
         "email": "smithj@rpi.edu",
         "rcsID": "000000004",
-        "location": "ny"
+        "location": "IN",
+        "interests": ["photography", "gardening", "filming", "painting", "reading"]
     },
 
     "JaMorant": {
@@ -57,17 +66,21 @@
         "year": "freshman",
         "name": "Ja Morant",
         "email": "morantj@rpi.edu",
-        "rcsID": "000000005"
+        "rcsID": "000000005",
+        "location": "SC",
+        "interests": ["sports", "traveling"]
     },
 
-    "MillieCirus": {
+    "MileyCyrus": {
         "sex": "f",
         "major": "biology",
         "dorm": 0,
         "year": "freshman",
         "name": "Millie Cirus",
         "email": "doef@rpi.edu",
-        "rcsID": "000000006"
+        "rcsID": "000000006",
+        "location": "TN",
+        "interests": ["hiking", "dancing", "cooking"]
     },
 
     "VirginiaPufton": {
@@ -77,6 +90,9 @@
         "year": "freshman",
         "name": "Virginia Pufton",
         "email": "puftonv@rpi.edu",
-        "rcsID": "000000007"
+        "rcsID": "000000007",
+        "location": "VA",
+        "interests":["photography", "gardening", "filming", "painting", "reading"]
+
     }
 }

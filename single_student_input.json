@@ -6,6 +6,7 @@
     "year": "freshman",
     "name": "Lebron James",
     "rcsID": "jamesl@rpi.edu",
-    "location": "ny"
+    "location": "ny",
+    "interests": ["filming", "writing", "playing an instrument", "reading"]
     
 }
