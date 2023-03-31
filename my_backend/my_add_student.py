@@ -4,6 +4,7 @@ import json
     @param studentInfo
     @modifies my_students.json
 '''
+# {FINISH}
 def add_student(studentInfo):
     # Opening student data base 
     file = open("/home/patty/my_projects/rcos/housing_project/Housing-2.0-B/my_students.json")
@@ -14,7 +15,7 @@ def add_student(studentInfo):
 
     # Check if student is inside 
     if(check_if_in_data(studentInfo["name"], studentData)):
-        return
+        return 
     else:
         # Delete dorm preference and a dorm key 
         del studentInfo["dormPref"]
