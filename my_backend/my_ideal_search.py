@@ -20,25 +20,22 @@ def single_ideal_search (student):
     for dorm in listofPref:
         # Iterate through all rooms in preferred dormitory 
         for roomName in campus: 
+
             # Checking all dorms rooms with current preference
             if(dorm in roomName): 
-                # Check if there are students in here
-                if(len(campus[roomName]["occupants"]) == 0):
+                # Check if there are students in the room, if not we want to temporarily place
+                # the student in here
+                if(len(campus[roomName]["occupants"]) == 0 and len(bestRoom) == 0):
+                    bestRoom = roomName
                     continue
                 else:
+                # if there is someone let's see how compatible they are
                     tempRoom = compatibility(student, campus[roomName]['occupants'], roomName)
                     bestRoom = setBestRoom(bestRoom, tempRoom)
             else: 
                 break
     
     return bestRoom 
-
-
-# Simple Helper Function [Might delete ]
-def returnFiles(name):
-
-    return 
-
 
 '''
     Functions below will "RATE" students by compatibility
@@ -101,8 +98,9 @@ def setBestRoom(roomInfo1, roomInfo2):
         return roomInfo2
     else:
         # We know the rating is at index 2 as created by compatibility so just compare them 
-        # and return the corresponding room 
-        if (roomInfo1[1] < roomInfo2[1]):
+        # and return the corresponding room, but we have to make sure that the compatibility
+        # of the student is great enough
+        if (roomInfo1[1] < roomInfo2[1] and roomInfo2[1] > 4):
             return roomInfo2
         else:
             return roomInfo1 
