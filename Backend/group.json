@@ -1,0 +1,23 @@
+{
+    "Group 1": {
+        "group": [
+            "John Smith",
+            "Alex",
+            "Ethan"
+        ]
+    },
+    "Group 2": {
+        "group": [
+            "Ellen",
+            "Rebecca",
+            "Ethel",
+            "Maia"
+        ]
+    },
+    "Group 3": {
+        "group": [
+            "Eva",
+            "Sanvi"
+        ]
+    }
+}

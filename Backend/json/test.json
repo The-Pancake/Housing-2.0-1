@@ -1,0 +1,2258 @@
+{
+    "Warren1-1": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Kona",
+                "sex": "m",
+                "major": "Geology/Earth Science, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AL",
+                "sleepHours": [
+                    9,
+                    5
+                ],
+                "musicPreference": [
+                    "K-Pop",
+                    "Classical"
+                ],
+                "hobbies": [
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Tomas",
+                "sex": "m",
+                "major": "Computer and Information Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "IN",
+                "sleepHours": [
+                    8,
+                    6
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Sports"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-2": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Scott",
+                "sex": "m",
+                "major": "Chemical Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "GA",
+                "sleepHours": [
+                    11,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games",
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Margeret",
+                "sex": "m",
+                "major": "Multi-/Interdisciplinary Studies, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CT",
+                "sleepHours": [
+                    11,
+                    6
+                ],
+                "musicPreference": [
+                    "Country/Folk",
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Table Top Games",
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-3": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Orlando",
+                "sex": "m",
+                "major": "Environmental Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "LA",
+                "sleepHours": [
+                    2,
+                    10
+                ],
+                "musicPreference": [
+                    "Pop",
+                    "Jazz"
+                ],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Ian",
+                "sex": "m",
+                "major": "Mathematics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "LA",
+                "sleepHours": [
+                    1,
+                    6
+                ],
+                "musicPreference": [
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-4": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Jeff",
+                "sex": "m",
+                "major": "Aerospace, Aeronautical and Astronautical Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "VT",
+                "sleepHours": [
+                    11,
+                    9
+                ],
+                "musicPreference": [
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Skye",
+                "sex": "m",
+                "major": "Economics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "WV",
+                "sleepHours": [
+                    2,
+                    9
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Cooking",
+                    "Sports"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-5": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Oren",
+                "sex": "m",
+                "major": "Pre-Medicine/Pre-Medical Studies",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NJ",
+                "sleepHours": [
+                    2,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Sports",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Finn",
+                "sex": "m",
+                "major": "Biochemistry, Biophysics and Molecular Biology, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "KS",
+                "sleepHours": [
+                    1,
+                    7
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Instrument",
+                    "Sports"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-6": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Phillip",
+                "sex": "m",
+                "major": "Industrial Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "IN",
+                "sleepHours": [
+                    11,
+                    6
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Katrina",
+                "sex": "m",
+                "major": "Chemical Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "LA",
+                "sleepHours": [
+                    11,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-7": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Terriah",
+                "sex": "m",
+                "major": "Physical Sciences, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CT",
+                "sleepHours": [
+                    8,
+                    10
+                ],
+                "musicPreference": [
+                    "Jazz",
+                    "K-Pop"
+                ],
+                "hobbies": [
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Willem",
+                "sex": "m",
+                "major": "Science, Technology and Society",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "GA",
+                "sleepHours": [
+                    12,
+                    10
+                ],
+                "musicPreference": [
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Instrument",
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-8": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "William",
+                "sex": "m",
+                "major": "Computer Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NJ",
+                "sleepHours": [
+                    9,
+                    7
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Lorelei",
+                "sex": "m",
+                "major": "Music Theory and Composition",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "TX",
+                "sleepHours": [
+                    10,
+                    9
+                ],
+                "musicPreference": [
+                    "Classical"
+                ],
+                "hobbies": [
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-9": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Fionna",
+                "sex": "m",
+                "major": "Environmental/Environmental Health Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "WV",
+                "sleepHours": [
+                    11,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Hiking",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Rigby",
+                "sex": "m",
+                "major": "Communication Studies/Speech Communication and Rhetoric",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "TX",
+                "sleepHours": [
+                    1,
+                    7
+                ],
+                "musicPreference": [
+                    "K-Pop",
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-10": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Brooke",
+                "sex": "m",
+                "major": "Physics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "ID",
+                "sleepHours": [
+                    2,
+                    9
+                ],
+                "musicPreference": [
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Joe",
+                "sex": "m",
+                "major": "Biology/Biological Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AZ",
+                "sleepHours": [
+                    10,
+                    6
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-11": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Beau",
+                "sex": "m",
+                "major": "Multi-/Interdisciplinary Studies, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "ME",
+                "sleepHours": [
+                    12,
+                    6
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "John",
+                "sex": "m",
+                "major": "Architecture",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "GA",
+                "sleepHours": [
+                    12,
+                    10
+                ],
+                "musicPreference": [
+                    "Indie",
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Sports",
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-12": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Wayne",
+                "sex": "m",
+                "major": "Biochemistry/Biophysics and Molecular Biology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "PA",
+                "sleepHours": [
+                    10,
+                    6
+                ],
+                "musicPreference": [
+                    "Indie",
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Fionna",
+                "sex": "m",
+                "major": "Computer Technology/Computer Systems Technology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MT",
+                "sleepHours": [
+                    10,
+                    6
+                ],
+                "musicPreference": [
+                    "Classical"
+                ],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-13": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Marco",
+                "sex": "m",
+                "major": "Computer Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "SC",
+                "sleepHours": [
+                    10,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Writing",
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Jeff",
+                "sex": "m",
+                "major": "Social Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "PA",
+                "sleepHours": [
+                    10,
+                    5
+                ],
+                "musicPreference": [
+                    "K-Pop",
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Writing",
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-14": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Susan",
+                "sex": "m",
+                "major": "Mathematics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "OK",
+                "sleepHours": [
+                    8,
+                    6
+                ],
+                "musicPreference": [
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Dash",
+                "sex": "m",
+                "major": "Visual and Performing Arts, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CO",
+                "sleepHours": [
+                    8,
+                    6
+                ],
+                "musicPreference": [
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Hiking",
+                    "Sports"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-15": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "George",
+                "sex": "m",
+                "major": "Multi-/Interdisciplinary Studies, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "GA",
+                "sleepHours": [
+                    12,
+                    10
+                ],
+                "musicPreference": [
+                    "Indie",
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Table Top Games",
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Sarah",
+                "sex": "m",
+                "major": "Information Technology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AL",
+                "sleepHours": [
+                    2,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren1-16": {
+        "name": "Warren",
+        "sex": "m",
+        "size": 1,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [],
+        "ra room": true
+    },
+    "Warren2-1": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Quaid",
+                "sex": "f",
+                "major": "Civil Engineering, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MI",
+                "sleepHours": [
+                    2,
+                    6
+                ],
+                "musicPreference": [
+                    "Rock",
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Cooking",
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Casey",
+                "sex": "f",
+                "major": "Computer and Information Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NE",
+                "sleepHours": [
+                    11,
+                    5
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Sports",
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-2": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Cesar",
+                "sex": "f",
+                "major": "Computer Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "IA",
+                "sleepHours": [
+                    1,
+                    6
+                ],
+                "musicPreference": [
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Sam",
+                "sex": "f",
+                "major": "Multi-/Interdisciplinary Studies, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AZ",
+                "sleepHours": [
+                    1,
+                    6
+                ],
+                "musicPreference": [
+                    "K-Pop"
+                ],
+                "hobbies": [
+                    "Table Top Games",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-3": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Larissa",
+                "sex": "f",
+                "major": "Environmental Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "FL",
+                "sleepHours": [
+                    8,
+                    9
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Carter",
+                "sex": "f",
+                "major": "Nuclear Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CO",
+                "sleepHours": [
+                    8,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-4": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Anthony",
+                "sex": "f",
+                "major": "Biochemistry, Biophysics and Molecular Biology, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "VT",
+                "sleepHours": [
+                    2,
+                    8
+                ],
+                "musicPreference": [
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Zachary",
+                "sex": "f",
+                "major": "Cognitive Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NH",
+                "sleepHours": [
+                    12,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-5": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Gloria",
+                "sex": "f",
+                "major": "Biomedical/Medical Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MN",
+                "sleepHours": [
+                    9,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Artistty",
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Carter",
+                "sex": "f",
+                "major": "Physical Sciences, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "ID",
+                "sleepHours": [
+                    9,
+                    7
+                ],
+                "musicPreference": [
+                    "Jazz"
+                ],
+                "hobbies": [
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-6": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Fionna",
+                "sex": "f",
+                "major": "Biochemistry/Biophysics and Molecular Biology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "OH",
+                "sleepHours": [
+                    1,
+                    6
+                ],
+                "musicPreference": [
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Writing",
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Ehsaan",
+                "sex": "f",
+                "major": "Computer and Information Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "TX",
+                "sleepHours": [
+                    1,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-7": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Susan",
+                "sex": "f",
+                "major": "Science, Technology and Society",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "KY",
+                "sleepHours": [
+                    9,
+                    8
+                ],
+                "musicPreference": [
+                    "K-Pop",
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Clark",
+                "sex": "f",
+                "major": "Civil Engineering, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CA",
+                "sleepHours": [
+                    11,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Sports"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-8": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Ehsaan",
+                "sex": "f",
+                "major": "Computer Technology/Computer Systems Technology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "LA",
+                "sleepHours": [
+                    2,
+                    7
+                ],
+                "musicPreference": [
+                    "Rock",
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Kira",
+                "sex": "f",
+                "major": "Industrial Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "IL",
+                "sleepHours": [
+                    2,
+                    9
+                ],
+                "musicPreference": [
+                    "Country/Folk",
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-9": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Katrina",
+                "sex": "f",
+                "major": "Physics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "TX",
+                "sleepHours": [
+                    12,
+                    6
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Artistty",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Sarah",
+                "sex": "f",
+                "major": "Physics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MS",
+                "sleepHours": [
+                    9,
+                    5
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Artistty"
+                ]
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-10": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Eli",
+                "sex": "f",
+                "major": "Chemistry, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NY",
+                "sleepHours": [
+                    8,
+                    10
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Orlando",
+                "sex": "f",
+                "major": "Mathematics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "UT",
+                "sleepHours": [
+                    9,
+                    8
+                ],
+                "musicPreference": [
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-11": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Mikayla",
+                "sex": "f",
+                "major": "Physical Sciences, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MI",
+                "sleepHours": [
+                    11,
+                    5
+                ],
+                "musicPreference": [
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "George",
+                "sex": "f",
+                "major": "Biomedical/Medical Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "VT",
+                "sleepHours": [
+                    8,
+                    5
+                ],
+                "musicPreference": [
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Instrument",
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-12": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Kyle",
+                "sex": "f",
+                "major": "Architecture",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "VA",
+                "sleepHours": [
+                    8,
+                    9
+                ],
+                "musicPreference": [
+                    "Jazz"
+                ],
+                "hobbies": [
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Zachary",
+                "sex": "f",
+                "major": "Environmental/Environmental Health Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NJ",
+                "sleepHours": [
+                    1,
+                    7
+                ],
+                "musicPreference": [
+                    "Jazz"
+                ],
+                "hobbies": [
+                    "Gaming",
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-13": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Margeret",
+                "sex": "f",
+                "major": "Cognitive Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "TN",
+                "sleepHours": [
+                    11,
+                    10
+                ],
+                "musicPreference": [
+                    "Rock",
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Gaming",
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Gabe",
+                "sex": "f",
+                "major": "Mathematics, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NY",
+                "sleepHours": [
+                    12,
+                    10
+                ],
+                "musicPreference": [
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-14": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "John",
+                "sex": "f",
+                "major": "Pre-Medicine/Pre-Medical Studies",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AZ",
+                "sleepHours": [
+                    10,
+                    5
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Cooking",
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Jason",
+                "sex": "f",
+                "major": "Music Theory and Composition",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CT",
+                "sleepHours": [
+                    1,
+                    5
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Cooking",
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-15": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Shaunti",
+                "sex": "f",
+                "major": "Computer and Information Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NC",
+                "sleepHours": [
+                    12,
+                    6
+                ],
+                "musicPreference": [
+                    "Pop",
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Gaming",
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Ashleigh",
+                "sex": "f",
+                "major": "Multi-/Interdisciplinary Studies, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "HI",
+                "sleepHours": [
+                    12,
+                    10
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren2-16": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 1,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [],
+        "ra room": true
+    },
+    "Warren2-17": {
+        "name": "Warren",
+        "sex": "i",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "RA",
+        "occupants": [],
+        "ra room": false
+    },
+    "Warren3-1": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Lily",
+                "sex": "f",
+                "major": "Engineering Physics",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "WI",
+                "sleepHours": [
+                    1,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Tracy",
+                "sex": "f",
+                "major": "Computer Technology/Computer Systems Technology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "HI",
+                "sleepHours": [
+                    1,
+                    9
+                ],
+                "musicPreference": [
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-2": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Eli",
+                "sex": "f",
+                "major": "Computer Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "IL",
+                "sleepHours": [
+                    2,
+                    6
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Jake",
+                "sex": "f",
+                "major": "Electrical, Electronics and Communications Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "IN",
+                "sleepHours": [
+                    10,
+                    6
+                ],
+                "musicPreference": [
+                    "Jazz",
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-3": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Bryce",
+                "sex": "f",
+                "major": "Music Theory and Composition",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NE",
+                "sleepHours": [
+                    10,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Roberto",
+                "sex": "f",
+                "major": "Social Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "DE",
+                "sleepHours": [
+                    10,
+                    9
+                ],
+                "musicPreference": [
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-4": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Jeff",
+                "sex": "f",
+                "major": "Environmental Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NV",
+                "sleepHours": [
+                    11,
+                    7
+                ],
+                "musicPreference": [
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Juniper",
+                "sex": "f",
+                "major": "Science, Technology and Society",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "ME",
+                "sleepHours": [
+                    12,
+                    5
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Table Top Games",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-5": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Doug",
+                "sex": "f",
+                "major": "Chemistry, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MI",
+                "sleepHours": [
+                    8,
+                    10
+                ],
+                "musicPreference": [
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Artistty",
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Victor",
+                "sex": "f",
+                "major": "Biochemistry/Biophysics and Molecular Biology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NV",
+                "sleepHours": [
+                    8,
+                    9
+                ],
+                "musicPreference": [
+                    "Metal/Grunge",
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-6": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Lawrence",
+                "sex": "f",
+                "major": "Biochemistry, Biophysics and Molecular Biology, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NE",
+                "sleepHours": [
+                    2,
+                    6
+                ],
+                "musicPreference": [
+                    "Classical"
+                ],
+                "hobbies": [
+                    "Artistty",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Kira",
+                "sex": "f",
+                "major": "Science, Technology and Society",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CA",
+                "sleepHours": [
+                    2,
+                    7
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-7": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Hau",
+                "sex": "f",
+                "major": "Cognitive Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "TX",
+                "sleepHours": [
+                    9,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Federico",
+                "sex": "f",
+                "major": "Information Technology",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AK",
+                "sleepHours": [
+                    12,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Sports",
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-8": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Nathan",
+                "sex": "f",
+                "major": "Engineering Physics",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "WV",
+                "sleepHours": [
+                    10,
+                    5
+                ],
+                "musicPreference": [
+                    "K-Pop",
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Harvey",
+                "sex": "f",
+                "major": "Aerospace, Aeronautical and Astronautical Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "ME",
+                "sleepHours": [
+                    12,
+                    5
+                ],
+                "musicPreference": [
+                    "Country/Folk",
+                    "Indie"
+                ],
+                "hobbies": [
+                    "Artistty",
+                    "Sports"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-9": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Willem",
+                "sex": "f",
+                "major": "Music Theory and Composition",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "OR",
+                "sleepHours": [
+                    12,
+                    9
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Quaid",
+                "sex": "f",
+                "major": "Environmental Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "PA",
+                "sleepHours": [
+                    11,
+                    9
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-10": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Wesley",
+                "sex": "f",
+                "major": "Science, Technology and Society",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "SD",
+                "sleepHours": [
+                    1,
+                    10
+                ],
+                "musicPreference": [
+                    "Classical"
+                ],
+                "hobbies": [
+                    "Artistty",
+                    "Sports"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Cynthia",
+                "sex": "f",
+                "major": "Biochemistry, Biophysics and Molecular Biology, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "OK",
+                "sleepHours": [
+                    10,
+                    6
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-11": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Parker",
+                "sex": "f",
+                "major": "Pre-Medicine/Pre-Medical Studies",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "NC",
+                "sleepHours": [
+                    9,
+                    6
+                ],
+                "musicPreference": [
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Gaming"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Maurice",
+                "sex": "f",
+                "major": "Business Administration and Management, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "KS",
+                "sleepHours": [
+                    10,
+                    6
+                ],
+                "musicPreference": [
+                    "Country/Folk"
+                ],
+                "hobbies": [
+                    "Artistty",
+                    "Writing"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-12": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Norman",
+                "sex": "f",
+                "major": "Social Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AK",
+                "sleepHours": [
+                    8,
+                    8
+                ],
+                "musicPreference": [
+                    "Classical"
+                ],
+                "hobbies": [
+                    "Artistty",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Joshua",
+                "sex": "f",
+                "major": "Social Sciences, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MA",
+                "sleepHours": [
+                    8,
+                    9
+                ],
+                "musicPreference": [
+                    "K-Pop",
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Table Top Games"
+                ]
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-13": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Robin",
+                "sex": "f",
+                "major": "Biochemistry, Biophysics and Molecular Biology, Other",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "CA",
+                "sleepHours": [
+                    10,
+                    5
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Quaid",
+                "sex": "f",
+                "major": "Engineering Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "TX",
+                "sleepHours": [
+                    10,
+                    5
+                ],
+                "musicPreference": [
+                    "Classical",
+                    "Rock"
+                ],
+                "hobbies": [
+                    "Artistty"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-14": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Dash",
+                "sex": "f",
+                "major": "Civil Engineering, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AR",
+                "sleepHours": [
+                    9,
+                    8
+                ],
+                "musicPreference": [
+                    "Metal/Grunge"
+                ],
+                "hobbies": [
+                    "Table Top Games",
+                    "Instrument"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Lily",
+                "sex": "f",
+                "major": "Science, Technology and Society",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "AR",
+                "sleepHours": [
+                    2,
+                    6
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-15": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Asher",
+                "sex": "f",
+                "major": "Mechanical Engineering",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "KY",
+                "sleepHours": [
+                    9,
+                    9
+                ],
+                "musicPreference": [
+                    "Pop"
+                ],
+                "hobbies": [
+                    "Hiking"
+                ],
+                "dorm": "Warren"
+            },
+            {
+                "name": "Shane",
+                "sex": "f",
+                "major": "Business Administration and Management, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "ME",
+                "sleepHours": [
+                    8,
+                    9
+                ],
+                "musicPreference": [
+                    "Pop",
+                    "K-Pop"
+                ],
+                "hobbies": [
+                    "Cooking"
+                ],
+                "dorm": "Warren"
+            }
+        ],
+        "ra room": false
+    },
+    "Warren3-16": {
+        "name": "Warren",
+        "sex": "f",
+        "size": 1,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [],
+        "ra room": true
+    },
+    "Warren3-17": {
+        "name": "Warren",
+        "sex": "i",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "RA",
+        "occupants": [],
+        "ra room": false
+    },
+    "Nason1-1": {
+        "name": "Nason",
+        "sex": "m",
+        "size": 2,
+        "shared_bathroom": false,
+        "year": "freshman",
+        "occupants": [
+            {
+                "name": "Mohammad",
+                "sex": "m",
+                "major": "Civil Engineering, General",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "MN",
+                "sleepHours": [
+                    1,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Instrument"
+                ],
+                "dorm": "Nason"
+            },
+            {
+                "name": "Marco",
+                "sex": "m",
+                "major": "Hydrology and Water Resources Science",
+                "dormPref": "",
+                "year": "freshman",
+                "geo": "PA",
+                "sleepHours": [
+                    11,
+                    8
+                ],
+                "musicPreference": [],
+                "hobbies": [
+                    "Table Top Games"
+                ],
+                "dorm": "Nason"
+            }
+        ],
+        "ra room": false
+    },
+    "RAHPSA1": {
+        "name": "RAHPS A",
+        "sex": "i",
+        "size": 4,
+        "shared_bathroom": true,
+        "year": "sophomore",
+        "occupants": [],
+        "ra room": false
+    }
+}
