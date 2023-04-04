@@ -1,8 +1,5 @@
 # Implement Algorithm Here:
 
-# def idealSplitSearch():
-#     return
-
 import json 
 
 '''
