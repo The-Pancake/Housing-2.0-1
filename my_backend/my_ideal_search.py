@@ -51,8 +51,10 @@ def compatibility(student, occupants, room):
     # search occupant and store student's information
     file = open('/home/patty/my_projects/rcos/housing_project/Housing-2.0-B/my_students.json')
     studentDataBase = json.load(file)
-    file.close()
+    file.close()    
 
+    # Result array [occupant, rating, result]
+    result = ["", 0, ""]    
     # Loop through occpuants [ FOR NOW ]
     for occupant in occupants: 
         occupantInfo = studentDataBase[occupant]
@@ -76,8 +78,13 @@ def compatibility(student, occupants, room):
         # Compare interests 
         rating += interestsComparator(student["interests"], occupantInfo["interests"])
 
-    return [occupant, rating, room]
+        # If student is compatible add to room 
+        if result[1] < rating:
+            result[0] = occupant
+            result[1] = rating
+            result[2] = room
 
+    return result
 # Helper function for compatibility that takes two lists and compares them 
 # This will return the amount of similarities between the two lists
 def interestsComparator(studentList, OccupantList):
@@ -86,7 +93,6 @@ def interestsComparator(studentList, OccupantList):
     for interest in studentList:
         if(interest in OccupantList):
             similarities += 1
-
 
     print("Similar:", similarities)
     return similarities 
